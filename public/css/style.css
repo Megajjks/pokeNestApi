@@ -1,0 +1,9 @@
+html, body {
+    padding:2rem;
+    background-color: burlywood;
+}
+
+h1{
+    font-size:2rem;
+    font-weight: bold;
+}
